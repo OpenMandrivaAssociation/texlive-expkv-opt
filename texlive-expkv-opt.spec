@@ -1,6 +1,6 @@
 Name:		texlive-expkv-opt
 Version:	58772
-Release:	1
+Release:	2
 Summary:	Parse class and package options with expkv
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expkv-opt
